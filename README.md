@@ -29,7 +29,7 @@ making it easier to identify trends, compare performance, and derive actionable 
  
   - 💰 Analysis of the relationship between discount percentage and sales
  
-  -📅 Interactive time-based analysis for tracking business performance
+  - 📅 Interactive time-based analysis for tracking business performance
  
 
 **Tools & Technologies:**
