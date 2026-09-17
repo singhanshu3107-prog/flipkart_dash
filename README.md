@@ -13,23 +13,23 @@ making it easier to identify trends, compare performance, and derive actionable 
 
 **Key Insights & Features:**
 
- 📌 KPI cards for Total Sales, Order Count, Quantity Sold, Average Rating, and Average Discount
+  - 📌 KPI cards for Total Sales, Order Count, Quantity Sold, Average Rating, and Average Discount
  
- 📈 Sales and order trends across different months
+  - 📈 Sales and order trends across different months
  
- 🛍️ Product category-wise discount analysis
+  - 🛍️ Product category-wise discount analysis
  
- 💳 Analysis of payment method distribution
+  - 💳 Analysis of payment method distribution
  
- ⭐ Customer rating distribution
+  - ⭐ Customer rating distribution
  
- 🌍 Region-wise order analysis
+  - 🌍 Region-wise order analysis
  
- 📊 Comparison of sales and quantity trends
+  - 📊 Comparison of sales and quantity trends
  
- 💰 Analysis of the relationship between discount percentage and sales
+  - 💰 Analysis of the relationship between discount percentage and sales
  
- 📅 Interactive time-based analysis for tracking business performance
+  -📅 Interactive time-based analysis for tracking business performance
  
 
 **Tools & Technologies:**
